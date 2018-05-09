@@ -1,0 +1,45 @@
+body {
+
+    background-color: white;
+    /* margin-left: 25%; */
+}
+
+.title {
+
+    margin-left: 50%;
+
+}
+
+#rules-area {
+
+    background-color: blue;
+    color: white;
+    margin-right: 50%;
+
+}
+
+#stone-area {
+
+    /* margin-right: 100%; */
+    background-color: white;
+}
+
+.stone-img, .stones-button {
+
+    width: 125px;
+    height: 100px;
+}
+
+
+#score-title {
+    
+    background-color: yellow;
+    margin-right: 75%;
+
+}
+
+#score-area {
+    background-color: green;
+    margin-right: 75%;
+    font-size: 35px;    
+}
